@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🚀 [I have decided to become a web developer](https://fredsblog.hashnode.dev/i-have-decided-to-become-a-web-developer)<!-- BLOGPOSTS:END -->
 
